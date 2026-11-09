@@ -1,7 +1,4 @@
-"""Мок-клиент СЭД Directum RX. В реальной эксплуатации — REST API / OData."""
-
 from dataclasses import dataclass, field
-
 
 @dataclass
 class Ticket:
