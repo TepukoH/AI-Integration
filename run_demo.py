@@ -1,8 +1,6 @@
-# run_demo.py
 from pathlib import Path
 import pandas as pd
 
-# Импортируем наши модули
 from src.scraper import update_feedback_csv
 from src.chatbot.assistant import SynergyAssistant
 from src.feedback_analysis.report import build_report, report_to_markdown

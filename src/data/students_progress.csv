@@ -1,0 +1,6 @@
+student_id,course,progress_pct,last_active_days
+Student-001,Python,72,2
+Student-002,Python,18,21
+Student-003,Python,5,30
+Student-004,Data Science,95,1
+Student-005,Data Science,45,15
